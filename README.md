@@ -2,6 +2,7 @@
 - 🖊️AboutMe：
    - 🔭 MC Moder | Blogger | try to be a good developer and make world better. 
    - 🌱 Major in AI, but no knowledge of AI at all, I'm just a rookie.
+   - ✨ TJJJ's faithful followers.
 - 🔎MyPage:   
    - [【博客】Blog](https://kmar.top/)
    - [【视频站】Bilibili](https://space.bilibili.com/66951474)
