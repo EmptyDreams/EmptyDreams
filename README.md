@@ -1,7 +1,7 @@
-### 嗨嗨~ 这里是探姬哦ww
+### 嗨嗨~ 这里是空梦哦ww
 - 🖊️AboutMe：
    - 🔭 MC Moder | Blogger | try to be a good developer and make world better. 
-   - 🌱 Major in CyberSecurity
+   - 🌱 Major in AI, but no knowledge of AI at all, I'm just a rookie.
 - 🔎MyPage:   
    - [【博客】Blog](https://kmar.top/)
    - [【视频站】Bilibili](https://space.bilibili.com/66951474)
