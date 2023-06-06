@@ -1,4 +1,5 @@
 ### 嗨嗨~ 这里是空梦哦ww
+
 - 🖊️AboutMe：
    - 🔭 MC Moder | Blogger | try to be a good developer and make world better. 
    - 🌱 Major in AI, but no knowledge of AI at all, I'm just a rookie.
@@ -14,7 +15,8 @@
    - [【ModernIndustry】MC Large Industrial Module](https://github.com/EmptyDreams/ModernIndustry)
    - [【ConsoleGameEngine】JVM-side console game engine](https://github.com/EmptyDreams/ConsoleGameEngine)
 
-### 
-![EmptyDreams's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmptyDreams&include_all_commits=true)
+### 统计信息
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyDreams&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=EmptyDreams&include_all_commits=true" alt="EmptyDreams's GitHub stats" width="450px"></img>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyDreams&layout=compact" alt="Top Langs" width="450px"></img></a>
