@@ -9,8 +9,8 @@
    - [【视频站】Bilibili](https://space.bilibili.com/66951474)
    - [【应援站】爱发电](https://afdian.net/a/emptydreams)
 - 💻Projects (Full Score):
-   - [【hexo-swpp】Fully automated incremental site cache update manager](https://github.com/EmptyDreams/hexo-swpp)
-                                                          
+   - [【swpp-backends】Powerful Service Worker Builder](https://github.com/EmptyDreams/swpp-backends)
+   - [【hexo-swpp】hexo support for swpp](https://github.com/EmptyDreams/hexo-swpp)
 - 💻In Process:
    - [【ModernIndustry】MC Large Industrial Module](https://github.com/EmptyDreams/ModernIndustry)
    - [【ConsoleGameEngine】JVM-side console game engine](https://github.com/EmptyDreams/ConsoleGameEngine)
